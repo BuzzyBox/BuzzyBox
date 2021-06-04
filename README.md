@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BuzzyBox
-- 👀 I’m interested in, Programing, Designing and Learning 
+- 👀 I’m interested in, Programing, designing and learning new things 
 - 🌱 I’m currently learning, C++ in Visual Studio
 - 💞️ I’m looking to collaborate on, a range of projects
 - 📫 How to reach me, 270121466@yoobeestudent.ac.nz
